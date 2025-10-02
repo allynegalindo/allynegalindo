@@ -40,9 +40,10 @@ Minha missão é unir conhecimento técnico, atenção aos detalhes e criativida
 <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
 
   <!-- GitHub Stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allynegalindo&show_icons=true&theme=gruvbox_title=true&count_private=true" alt="Allyne GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allynegalindo&show_icons=true&theme=rose_pine&hide_title=true&count_private=true" alt="Allyne GitHub Stats"/>
 
   <!-- Top Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allynegalindo&layout=compact&theme=gruvbox_title=true" alt="Allyne Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allynegalindo&layout=compact&theme=rose_pine&hide_title=true" alt="Allyne Top Languages"/>
 
 </div>
+
