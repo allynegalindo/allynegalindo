@@ -25,10 +25,19 @@ Minha missão é unir conhecimento técnico, atenção aos detalhes e criativida
 
 ---
 
-## 📫 Onde me encontrar
+## 📧 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allynegalindo)  
-[![Hotmail](https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:allynegalindo@hotmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/allynegalindo" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+         alt="LinkedIn" width="60" height="60" style="border-radius:50%; margin-right: 15px;">
+  </a>
+  <a href="mailto:seuemail@hotmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" 
+         alt="Hotmail" width="60" height="60" style="border-radius:50%;">
+  </a>
+</p>
+
 
 ## 📊 Minhas Estatísticas no GitHub
 
