@@ -29,3 +29,15 @@ Minha missão é unir conhecimento técnico, atenção aos detalhes e criativida
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allynegalindo)  
 [![Hotmail](https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:allynegalindo@hotmail.com)
+
+## 📊 Minhas Estatísticas no GitHub
+
+<div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+
+  <!-- GitHub Stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allynegalindo&show_icons=true&theme=react&hide_title=true&count_private=true" alt="Allyne GitHub Stats"/>
+
+  <!-- Top Languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allynegalindo&layout=compact&theme=react&hide_title=true" alt="Allyne Top Languages"/>
+
+</div>
