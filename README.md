@@ -28,4 +28,4 @@ Minha missão é unir conhecimento técnico, atenção aos detalhes e criativida
 ## 📫 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allynegalindo)  
-[![Hotmail](https://img.shields.io/badge/Gmail-ff66cc?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allynegalindo@hotmail.com)
+[![Hotmail](https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:allynegalindo@hotmail.com)
