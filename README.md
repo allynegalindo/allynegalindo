@@ -1,4 +1,4 @@
-# ✨ Olá, eu sou Allyne Lais ✨
+# ✨ Olá, eu sou Allyne Galindo ✨
 
 **Quality Assurance | Software Tester **
 
