@@ -2,9 +2,9 @@
 
 Quality Assurance | Software Tester 
 
-Sou apaixonada por **Qualidade de Software** 💜 e acredito que testes bem feitos são essenciais para garantir experiências digitais incríveis.  
+Sou apaixonada por **Qualidade de Software** e acredito que testes bem feitos são essenciais para garantir experiências digitais incríveis.  
 Moro em **João Pessoa - PB 🌴**, e atualmente estou finalizando minha graduação em **Análise e Desenvolvimento de Sistemas**.  
-Minha missão é unir conhecimento técnico, atenção aos detalhes e criatividade para entregar produtos mais confiáveis e eficientes 🚀.
+Minha missão é unir conhecimento técnico, atenção aos detalhes e criatividade para entregar produtos mais confiáveis e eficientes 💜.
 
 ---
 
