@@ -1,10 +1,6 @@
 # ✨ Olá, eu sou Allyne Galindo ✨
 
-Quality Assurance | Software Tester 
-
-Sou apaixonada por **Qualidade de Software** e acredito que testes bem feitos são essenciais para garantir experiências digitais incríveis.  
-Moro em **João Pessoa - PB 🌴**, e atualmente estou finalizando minha graduação em **Análise e Desenvolvimento de Sistemas**.  
-Minha missão é unir conhecimento técnico, atenção aos detalhes e criatividade para entregar produtos mais confiáveis e eficientes 💜.
+QA Analyst com mais de 4 anos de experiência em Garantia de Qualidade de Software. Atuo no planejamento, execução e automação de testes para aplicações backend e frontend, com foco em eficiência, confiabilidade e melhoria contínua dos processos de QA.
 
 ---
 
